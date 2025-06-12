@@ -73,13 +73,19 @@
   ```
 
 ### **2.Comparação do tempo de execução**  
-  2.1. Comando no host: 
+  2.1. Comando no host: </br>
   ![host](imagens/p1.PNG)
-  2.1. Comandos: 
+  
+  ---------- 
+  2.2. Comandos: </br>
   ![comandos](imagens/p2.PNG)
   ![comandos](imagens/p3.PNG)
-  2.1. Monitoração CPU: 
+  
+  ---------- 
+  2.3. Monitoração CPU:  </br>
   ![monitoramento](imagens/p4.PNG)
-  2.1. Medição de tempo: 
+  
+  ----------
+  2.4. Medição de tempo: </br>
   ![tempo](imagens/p5.PNG)
 
